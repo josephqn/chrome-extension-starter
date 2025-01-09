@@ -16,7 +16,7 @@ Ensure that Node.js and pnpm are installed on your system.
 1. Clone this repository:
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/josephqn/chrome-extension-starter
 ```
 
 2. Navigate to the root folder:
